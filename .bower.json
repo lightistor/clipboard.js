@@ -1,0 +1,26 @@
+{
+  "name": "clipboard",
+  "description": "Modern copy to clipboard. No Flash. Just 3kb",
+  "license": "MIT",
+  "main": "dist/clipboard.js",
+  "ignore": [
+    "/.*/",
+    "/demo/",
+    "/test/",
+    "/.*",
+    "/bower.json",
+    "/karma.conf.js",
+    "/src",
+    "/lib"
+  ],
+  "keywords": [
+    "clipboard",
+    "copy",
+    "cut"
+  ],
+  "homepage": "https://github.com/lightistor/clipboard.js",
+  "_release": "vjvma-0.10.11",
+  "_source": "https://github.com/lightistor/clipboard.js.git",
+  "_target": "vjvma-0.10.11",
+  "_originalSource": "vjvma/clipboard.js"
+}
